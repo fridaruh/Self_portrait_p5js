@@ -1,3 +1,3 @@
-# Self Portrait
+# Self Portrait 2026
 
-![Self Portrait](portrait.png)
+![Self Portrait](Portrait.png)
